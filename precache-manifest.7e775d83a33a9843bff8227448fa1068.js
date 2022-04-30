@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48747cdde3ca48ca07e922a04b75e2ff",
+    "revision": "5fc9c20fd39d2504f928630d00475a90",
     "url": "https://kishorreddy524.github.io/csb-d8epns/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kishorreddy524.github.io/csb-d8epns/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "2ce24b195c9ea27f8170",
+    "revision": "35bd16e5b312dc1a1213",
     "url": "https://kishorreddy524.github.io/csb-d8epns/static/css/main.6db8c076.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kishorreddy524.github.io/csb-d8epns/static/js/3.15144f2a.chunk.js"
   },
   {
-    "revision": "2ce24b195c9ea27f8170",
-    "url": "https://kishorreddy524.github.io/csb-d8epns/static/js/main.731b39bb.chunk.js"
+    "revision": "35bd16e5b312dc1a1213",
+    "url": "https://kishorreddy524.github.io/csb-d8epns/static/js/main.2f71d2ad.chunk.js"
   },
   {
     "revision": "36102bf840ef48ad8fee",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kishorreddy524.github.io/csb-d8epns/static/media/Agustina.21f233e1.woff"
   },
   {
-    "revision": "07a898a10184fea3be4de3c85d94ab3b",
-    "url": "https://kishorreddy524.github.io/csb-d8epns/static/media/CIRCLE1.07a898a1.png"
+    "revision": "7f62420849350e044ff1eeeda3244356",
+    "url": "https://kishorreddy524.github.io/csb-d8epns/static/media/CIRCLE1.7f624208.png"
   },
   {
     "revision": "07a898a10184fea3be4de3c85d94ab3b",
